@@ -1,6 +1,6 @@
 token=NTk1MTk1ODk1OTg1ODY0NzA2.XRndlA.zUu2bV8M3HC-cERFn_mrNixW3bc
 owner=500351379865468930
-prefix= s
-game= shelp
+prefix= d
+game= dhelp
 stayinchannel=true
 songinstatus=false
