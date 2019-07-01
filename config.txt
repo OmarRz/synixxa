@@ -1,0 +1,6 @@
+token=ÇáÊæßä 
+owner=ÇÏí ÈÊÚß 
+prefix= 1
+game= 1help
+stayinchannel=true
+songinstatus=true 
